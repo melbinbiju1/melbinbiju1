@@ -18,8 +18,6 @@ With a strong foundation in **data wrangling, visualization, and storytelling**,
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ---
 
@@ -43,19 +41,13 @@ With a strong foundation in **data wrangling, visualization, and storytelling**,
 
 ## 📂 Featured Projects
 
-🌟 **Sales Dashboard – Power BI**  
-An interactive sales dashboard tracking KPIs, regional performance, and trends  
-🔗 *[Check it out](#)*
+🌟 **AtliQ Hospitality Analysis – Power BI**  
+A Power BI project analyzing hotel performance data for AtliQ Grands. Built for Codebasics Challenge to showcase business insights, KPIs, and storytelling in the hospitality domain. 
+🔗 *[Check it out](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI)*
 
-🌟 **Customer Churn Analysis – Python & SQL**  
-Analyzed churn behavior and identified key customer segments  
-🔗 *[Check it out](#)*
-
-🌟 **Excel Forecasting Tool**  
-Created a scenario planning model with dynamic dashboards and ETL  
-🔗 *[Check it out](#)*
-
-*(Add your actual project links above when ready)*
+🌟 **AtliQ Sales and Finance Reports – Excel**  
+This project features sales and finance reports for AtliQ Hardwares, developed using Microsoft Excel.
+🔗 *[Check it out](https://github.com/melbinbiju1/Atliq-Sales-Finance-Reports-Excel)*
 
 ---
 
