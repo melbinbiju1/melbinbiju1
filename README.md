@@ -49,13 +49,13 @@ Business Insights 360 is an end-to-end Power BI project for AtliQ Hardware, a gl
 A Power BI project analyzing hotel performance data for AtliQ Grands. Built for Codebasics Challenge to showcase business insights, KPIs, and storytelling in the hospitality domain. 
 🔗 *[Check it out](https://github.com/melbinbiju1/AtliQ-Hospitality-Analysis-PowerBI)*
 
-🌟 **Finance and Top N Insights – Advanced SQL**  
+🌟 **Consumer Goods Ad Hoc Insights – Advanced SQL**  
 SQL project simulating real-world finance and sales analytics. Includes stored procedures, CTEs, and advanced queries to deliver automated, business-ready insights for data-driven decision-making.
-🔗 *[Check it out](https://github.com/melbinbiju1/Finance-and-Top-N-Insights-Advanced-SQL)*
+🔗 *[Check it out](https://github.com/melbinbiju1/Consumer-Goods-Ad-Hoc-Insights-SQL)*
 
-🌟 **AtliQ Sales and Finance Reports – Excel**  
+🌟 **AtliQ Sales and Finance Analytics – Advanced Excel**  
 This project features sales and finance reports for AtliQ Hardwares, developed using Microsoft Excel.
-🔗 *[Check it out](https://github.com/melbinbiju1/Atliq-Sales-Finance-Reports-Excel)*
+🔗 *[Check it out](https://github.com/melbinbiju1/AtliQ-Sales-and-Finance-Analytics-Excel)*
 
 ---
 
