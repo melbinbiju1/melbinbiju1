@@ -1,12 +1,14 @@
 # 👋 Hi, I'm Melbin Biju
 
-🎯 *Aspiring Data Analyst | Excel • Power BI • SQL • Python*
+🎯 *Data Analyst | Excel • Power BI • SQL • Python*
 
 ---
 
 ## 🚀 About Me
 
-I'm a curious and detail-driven **Data Analyst** passionate about uncovering insights that drive business decisions. I thrive on solving complex problems with data and creating intuitive dashboards that speak louder than reports.
+# Hi, I’m Melbin Biju 👋
+
+I’m a **Data Analyst** with **2+ years of professional experience** and an **MSc in Data Analytics** from the National College of Ireland. I specialize in **turning complex datasets into actionable, business-ready insights** using **Power BI, SQL, Python, and Excel**.
 
 With a strong foundation in **data wrangling, visualization, and storytelling**, I'm building real-world projects to sharpen my skills and demonstrate my analytical thinking.
 
