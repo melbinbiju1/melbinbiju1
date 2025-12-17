@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-# Hi, I’m Melbin Biju 👋
-
 I’m a **Data Analyst** with **2+ years of professional experience** and an **MSc in Data Analytics** from the National College of Ireland. I specialize in **turning complex datasets into actionable, business-ready insights** using **Power BI, SQL, Python, and Excel**.
 
 With a strong foundation in **data wrangling, visualization, and storytelling**, I'm building real-world projects to sharpen my skills and demonstrate my analytical thinking.
@@ -64,7 +62,7 @@ This project features sales and finance reports for AtliQ Hardwares, developed u
 ## 📬 Let's Connect
 
 🔗 [LinkedIn](https://www.linkedin.com/in/melbin-biju/)  
-📧 melbinbiju212330@gmail.com
+📧 melbinbiju186@gmail.com
 
 ---
 
